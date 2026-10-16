@@ -6,7 +6,8 @@ Hybrid attention mask from MemoryWAM (arXiv 2606.20562), on a toy setup.
 
 
 
-!\[mask](toy\_mask\_memorywam.png)
+![mask](toy_mask_memorywam.png)
+
 
 
 
