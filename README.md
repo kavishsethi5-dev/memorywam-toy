@@ -15,5 +15,5 @@ Hybrid attention mask from MemoryWAM (arXiv 2606.20562), on a toy setup.
 
 
 
-Next: cached pass with eviction, checked against the full masked pass.
+Cached equivalence test done (Untitled13)
 
