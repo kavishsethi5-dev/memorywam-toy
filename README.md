@@ -16,4 +16,5 @@ Hybrid attention mask from MemoryWAM (arXiv 2606.20562), on a toy setup.
 
 
 Cached equivalence test done (Untitled13)
+Rope and Multi-head added
 
